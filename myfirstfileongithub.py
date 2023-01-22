@@ -1,4 +1,4 @@
-s=input('ENTER SOME STRING TO CHECK ITS OCCURANCE: ')
+s=input('Enter a string to check its number of occurances: ')
 l=[]
 for ch in s:
     if ch not in l:
